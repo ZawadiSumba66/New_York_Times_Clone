@@ -1,3 +1,26 @@
+nav{
+    position:sticky;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    margin-top: 1rem;
+}
+.fa-bars{
+    margin-right:1rem;
+    margin-left: 1rem;
+}
+.fa-search{
+    margin-right: 1.5rem;
+}
+
 .heading_font{
-    font-family: 'Arizonia', cursive;
+    font-family:"Euclid Fraktur", "Old English Text ", fantasy, serif;
+}
+.inline{
+    display: flex;
+    justify-content: space-between;
+}
+article{
+margin-right: auto;
+margin-left: auto;
 }
