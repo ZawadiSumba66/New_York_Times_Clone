@@ -2,12 +2,15 @@
 
 # NewYork Times article clone
 
-![screenshot](./app_screenshot.png)
+![screenshot](images/Screenshot from 2020-11-25 20-27-08.png)
 
 
 ## Built With
 
 - HTML/CSS
+  
+
+##Technologies and t
 
 ## Live Demo
 
