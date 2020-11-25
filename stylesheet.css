@@ -8,7 +8,7 @@ nav{
 .heading_font{
     font-size: 1.5rem;
     font-weight: bold;
-    font-family:"Euclid Fraktur", "Old English Text MT", fantasy, serif;
+    font-family: "Old English Text"
 }
 button{
     padding:6px;
@@ -21,7 +21,7 @@ figure{
     align-items: center;
     margin-left:auto;
     margin-right:auto;
-    width:50%
+    width:70%
 }
 figure h3{
     font-weight: bold;
@@ -30,6 +30,7 @@ figure h3{
 img{
     margin:0 auto;
   height:500px;
+  width:1000px;
 }
 .fa-bars{
     margin-right:1rem;
@@ -64,15 +65,14 @@ background-color:white;
   .editors_picks{
       float: right;
   }
+  .editor_heading{
+    font-weight:bold;
+}
   .editors_picks img{
    width:100px;
    height:100px;
   }
-  .editor_heading{
-      justify-content: center;
-  }
   
-
 .all_articles{
     margin:auto;
     width:40%;
@@ -89,10 +89,22 @@ background-color:white;
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+.inflation_container{
+    width:100%;
+    margin:0 auto;
+   font-size:15px;
+}
+.inflation_container img{
+    width:700px;
+}
+.inflation_header h5{
+    font-weight:bold;
+    font-size:20px;
+}
+
 .container_cards{
     width:70%;
     margin:0 auto;
-   
 }
 .container_cards img{
     height:200px;
@@ -110,6 +122,9 @@ footer hr{
 .footer_details{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.detail_header{
+    font-weight: bold;
 }
 .footer_bottom{
     font-size:10px;
