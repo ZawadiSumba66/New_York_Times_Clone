@@ -5,12 +5,17 @@ nav{
     height: 30px;
     margin-top: 1rem;
 }
+.heading_font{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family:"Euclid Fraktur", "Old English Text MT", fantasy, serif;
+}
 button{
     padding:6px;
     border:none;
     cursor:pointer;
     font-weight: bold;
-    background-color: grey;
+    background-color:rgb(50,104,145);
 }
 figure{
     align-items: center;
@@ -25,7 +30,6 @@ figure h3{
 img{
     margin:0 auto;
   height:500px;
-  
 }
 .fa-bars{
     margin-right:1rem;
@@ -44,15 +48,31 @@ img{
    display:flex;
    justify-content: space-between;
 }
-strong{
-    text-align: center;
-    justify-content: center;
-  }
+
   .share_icons i{
- background-color:grey;
- padding:0.5rem;
- border-radius: 50%;
+    padding:0.5rem;
+    font-size:15px;
+    background-color:#f2f2f2;
+    border-radius: 50%;
   }
+  
+  .fa-bookmark-o,
+  .fa-commenting-o
+  {
+background-color:white;
+  }
+  .editors_picks{
+      float: right;
+  }
+  .editors_picks img{
+   width:100px;
+   height:100px;
+  }
+  .editor_heading{
+      justify-content: center;
+  }
+  
+
 .all_articles{
     margin:auto;
     width:40%;
@@ -80,22 +100,19 @@ strong{
 }
 footer{
     font-size:15px;
+    width:60%;
+    margin:0 auto;
 }
 footer hr{
-    width:60%;
+    width:80%;
 }
+
 .footer_details{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-   margin:0 auto;
-    width:50%;
-
-}
-.footer_bottom hr{
-    width:100%;
 }
 .footer_bottom{
     font-size:10px;
     margin:0 auto;
-    width: 50%;
+    width: 100%;
 }
