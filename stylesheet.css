@@ -6,10 +6,11 @@ nav{
     margin-top: 1rem;
 }
 button{
-    padding:5px;
+    padding:6px;
     border:none;
     cursor:pointer;
     font-weight: bold;
+    background-color: grey;
 }
 figure{
     align-items: center;
@@ -38,15 +39,63 @@ img{
     font-family: "Old English Text";
 }
 .inline{
-    display: inline-block;
-    
+    width:40%;
+   margin:0 auto;
+   display:flex;
+   justify-content: space-between;
 }
+strong{
+    text-align: center;
+    justify-content: center;
+  }
+  .share_icons i{
+ background-color:grey;
+ padding:0.5rem;
+ border-radius: 50%;
+  }
 .all_articles{
     margin:auto;
     width:40%;
     font-size:1.5rem;
 }
-strong{
-    justify-content: center;
-    align-items: center;
+.all_articles figure{
+    width:100%
+}
+.all_articles figcaption{
+   font-size: 12px;
+  width:100%
+}
+.cards{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.container_cards{
+    width:70%;
+    margin:0 auto;
+   
+}
+.container_cards img{
+    height:200px;
+    width:350px;
+}
+footer{
+    font-size:15px;
+}
+footer hr{
+    width:60%;
+}
+.footer_details{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   margin:0 auto;
+    width:50%;
+
+}
+.footer_bottom hr{
+    width:100%;
+}
+.footer_bottom{
+    font-size:10px;
+    margin:0 auto;
+    width: 50%;
 }
