@@ -97,6 +97,11 @@ img {
   width: 700px;
 }
 
+article {
+  font-size: 16px;
+  font-family: 'Nunito', sans-serif;
+}
+
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
