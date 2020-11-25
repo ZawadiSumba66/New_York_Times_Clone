@@ -5,6 +5,27 @@ nav{
     height: 30px;
     margin-top: 1rem;
 }
+button{
+    padding:5px;
+    border:none;
+    cursor:pointer;
+    font-weight: bold;
+}
+figure{
+    align-items: center;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
+}
+figure h3{
+    font-weight: bold;
+    font-size:2rem;
+}
+img{
+    margin:0 auto;
+  height:500px;
+  
+}
 .fa-bars{
     margin-right:1rem;
     margin-left: 1rem;
@@ -14,13 +35,18 @@ nav{
 }
 
 .heading_font{
-    font-family:"Euclid Fraktur", "Old English Text ", fantasy, serif;
+    font-family: "Old English Text";
 }
 .inline{
-    display: flex;
-    justify-content: space-between;
+    display: inline-block;
+    
 }
-article{
-margin-right: auto;
-margin-left: auto;
+.all_articles{
+    margin:auto;
+    width:40%;
+    font-size:1.5rem;
+}
+strong{
+    justify-content: center;
+    align-items: center;
 }
