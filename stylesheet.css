@@ -1,136 +1,153 @@
-nav{
-    position:sticky;
-    display: flex;
-    justify-content: space-between;
-    height: 30px;
-    margin-top: 1rem;
-}
-.heading_font{
-    font-size: 1.5rem;
-    font-weight: bold;
-    font-family: "Old English Text"
-}
-button{
-    padding:6px;
-    border:none;
-    cursor:pointer;
-    font-weight: bold;
-    background-color:rgb(50,104,145);
-}
-figure{
-    align-items: center;
-    margin-left:auto;
-    margin-right:auto;
-    width:70%
-}
-figure h3{
-    font-weight: bold;
-    font-size:2rem;
-}
-img{
-    margin:0 auto;
-  height:500px;
-  width:1000px;
-}
-.fa-bars{
-    margin-right:1rem;
-    margin-left: 1rem;
-}
-.fa-search{
-    margin-right: 1.5rem;
+nav {
+  position: sticky;
+  display: flex;
+  justify-content: space-between;
+  height: 30px;
+  margin-top: 1rem;
 }
 
-.heading_font{
-    font-family: "Old English Text";
-}
-.inline{
-    width:40%;
-   margin:0 auto;
-   display:flex;
-   justify-content: space-between;
+.heading_font {
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
-  .share_icons i{
-    padding:0.5rem;
-    font-size:15px;
-    background-color:#f2f2f2;
-    border-radius: 50%;
-  }
-  
-  .fa-bookmark-o,
-  .fa-commenting-o
-  {
-background-color:white;
-  }
-  .editors_picks{
-      float: right;
-  }
-  .editor_heading{
-    font-weight:bold;
-}
-  .editors_picks img{
-   width:100px;
-   height:100px;
-  }
-  
-.all_articles{
-    margin:auto;
-    width:40%;
-    font-size:1.5rem;
-}
-.all_articles figure{
-    width:100%
-}
-.all_articles figcaption{
-   font-size: 12px;
-  width:100%
-}
-.article_center img{
-width:700px;
-}
-.cards{
-    display:grid;
-    grid-template-columns: 1fr 1fr 1fr;
-}
-.inflation_container{
-    width:100%;
-    margin:0 auto;
-   font-size:15px;
-}
-.inflation_container img{
-    width:700px;
-}
-.inflation_header h5{
-    font-weight:bold;
-    font-size:20px;
+button {
+  padding: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: rgb(50, 104, 145);
 }
 
-.container_cards{
-    width:70%;
-    margin:0 auto;
-}
-.container_cards img{
-    height:200px;
-    width:350px;
-}
-footer{
-    font-size:15px;
-    width:60%;
-    margin:0 auto;
-}
-footer hr{
-    width:80%;
+figure {
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
 
-.footer_details{
-    display:grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+figure h3 {
+  font-weight: bold;
+  font-size: 2rem;
 }
-.detail_header{
-    font-weight: bold;
+
+img {
+  margin: 0 auto;
+  height: 500px;
+  width: 1000px;
 }
-.footer_bottom{
-    font-size:10px;
-    margin:0 auto;
-    width: 100%;
+
+.fa-bars {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.fa-search {
+  margin-right: 1.5rem;
+}
+
+.inline {
+  width: 40%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.share_icons i {
+  padding: 0.5rem;
+  font-size: 15px;
+  background-color: #f2f2f2;
+  border-radius: 50%;
+}
+
+.fa-bookmark-o,
+.fa-commenting-o {
+  background-color: white;
+}
+
+.editors_picks {
+  float: right;
+}
+
+.editor_heading {
+  font-weight: bold;
+}
+
+.editors_picks img {
+  width: 100px;
+  height: 100px;
+}
+
+.all_articles {
+  margin: auto;
+  width: 40%;
+  font-size: 1.5rem;
+}
+
+.all_articles figure {
+  width: 100%;
+}
+
+.all_articles figcaption {
+  font-size: 12px;
+  width: 100%;
+}
+
+.article_center img {
+  width: 700px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.inflation_container {
+  width: 100%;
+  margin: 0 auto;
+  font-size: 15px;
+}
+
+.inflation_container img {
+  width: 700px;
+}
+
+.inflation_header h5 {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.container_cards {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.container_cards img {
+  height: 200px;
+  width: 350px;
+}
+
+.footer {
+  font-size: 15px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.footer hr {
+  width: 80%;
+}
+
+.footer_details {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.detail_header {
+  font-weight: bold;
+}
+
+.footer_bottom {
+  font-size: 10px;
+  margin: 0 auto;
+  width: 100%;
 }
