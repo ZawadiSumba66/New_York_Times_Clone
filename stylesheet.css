@@ -85,6 +85,9 @@ background-color:white;
    font-size: 12px;
   width:100%
 }
+.article_center img{
+width:700px;
+}
 .cards{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
