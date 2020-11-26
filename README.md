@@ -4,8 +4,12 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 > One paragraph statement about the project.www
 =======
+=======
+
+>>>>>>> ae7ec4713bfa9c0944d6cfa4dc32453ea10918d9
 ![screenshot](https://raw.githubusercontent.com/Goldinium/Ney_York_Times_Clone/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
 >>>>>>> c331934e4d375cbe491154434180133115082b22
 =======
@@ -17,6 +21,10 @@
 Additional description about the project and its features.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> ae7ec4713bfa9c0944d6cfa4dc32453ea10918d9
 ## Built With
 
 - Major languages

@@ -2,13 +2,12 @@ nav {
   position: fixed;
   display: flex;
   justify-content: space-between;
-  height: 50px;
+  height:50px;
   margin-top: 0;
   top: 0;
   width: 97%;
   background-color: white;
   padding: 10px 10px; 
-
   margin-bottom: 2rem;
 }
 
@@ -22,12 +21,6 @@ nav {
 .heading_font {
   font-size: 1.5rem;
   font-weight: bold;
-}
-
-img {
-  margin: 0 auto;
-  height: 500px;
-  width: 1000px;
 }
 
 nav img {
@@ -56,6 +49,12 @@ figure h3 {
   font-size: 2.5rem;
   font-style: italic;
   margin-top: 6rem;
+}
+
+img {
+  margin: 0 auto;
+  height: 500px;
+  width: 1000px;
 }
 
 .fa-bars {
@@ -90,8 +89,8 @@ figure h3 {
   float: right;
 }
 
-.editors_picks hr {
-  width: 70%;
+.editors_picks hr{
+  width:70%;
 }
 
 .editor_heading {
@@ -139,7 +138,7 @@ article {
   margin-right: auto;
 }
 
-.inflation_header h5 {
+.inflation_header h5{
   font-size: 20px;
 }
 
@@ -160,10 +159,10 @@ article {
 }
 
 .image-text {
-  display: block;
-  width: 100%;
-  align-content: center;
-  height: 975px;
+ display: block;
+ width: 100%;
+ align-content: center;
+ height: 975px;
 }
 
 .container_cards {
@@ -171,7 +170,7 @@ article {
   margin: 0 auto;
 }
 
-.container_cards p {
+.container_cards p{
 font-weight: bold;
 }
 
@@ -180,12 +179,18 @@ font-weight: bold;
   width: 350px;
 }
 
-.most_popular {
+.most_popular{
   float: right;
 }
 
 .footer {
   font-size: 15px; 
+}
+
+footer img {
+  height:40px;
+  width:200px;
+  margin-left: 200px;
 }
 
 .footer_details {
@@ -195,17 +200,16 @@ font-weight: bold;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
-.footer_heading p {
+.footer_heading p{
   width: 70%;
   margin: 0 auto;   
-
 }
 
 .footer_heading hr {
   width: 70%;
 }
 
-.footer_details a {
+.footer_details a{
   text-decoration: none;
   color: black;
 }
@@ -215,14 +219,14 @@ font-weight: bold;
   cursor: pointer;
 }
 
+.detail_header {
+  font-weight: bold;
+}
+
 .sixth_footer a {
   text-decoration: none;  
   color: black;
   font-size: 10px;
-}
-
-.detail_header {
-  font-weight: bold;
 }
 
 .sixth_footer p {
@@ -243,3 +247,4 @@ font-weight: bold;
   border-top: 1px solid black;
   text-align: center;
 }
+
