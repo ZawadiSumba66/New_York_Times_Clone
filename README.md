@@ -1,36 +1,59 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# NewYork Times article clone
+# Project Name
 
-![screenshot](images/Screenshot from 2020-11-25 20-27-08.png)
+> One paragraph statement about the project.www
 
+![screenshot](./app_screenshot.png)
+
+Additional description about the project and its features.
 
 ## Built With
 
-- HTML/CSS
-  
-
-##Technologies and t
+- Major languages
+- Frameworks
+- Technologies used
 
 ## Live Demo
 
-[Live Demo Link](https://goldinium.github.io/Ney_York_Times_Clone/)
+[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**Clone or visit the live demo link above**
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@Goldinium](https://github.com/Goldinium)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 👤 **Author2**
 
-- GitHub: [@ZawadiSumba66](https://github.com/ZawadiSumba66)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -41,6 +64,12 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
