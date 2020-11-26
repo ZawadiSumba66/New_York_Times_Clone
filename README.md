@@ -2,7 +2,7 @@
 
 # NewYork Times article clone
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/Goldinium/Ney_York_Times_Clone/blob/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
 
 
 ## Built With
