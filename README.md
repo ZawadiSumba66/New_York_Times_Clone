@@ -1,41 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# NewYork Times article clone
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-> One paragraph statement about the project.www
-=======
-=======
-
->>>>>>> ae7ec4713bfa9c0944d6cfa4dc32453ea10918d9
 ![screenshot](https://raw.githubusercontent.com/Goldinium/Ney_York_Times_Clone/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
->>>>>>> c331934e4d375cbe491154434180133115082b22
-=======
-![screenshot](https://raw.githubusercontent.com/Goldinium/Ney_York_Times_Clone/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
->>>>>>> c331934e4d375cbe491154434180133115082b22
 
 ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> ae7ec4713bfa9c0944d6cfa4dc32453ea10918d9
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-=======
 - HTML/CSS
-<<<<<<< HEAD
->>>>>>> c331934e4d375cbe491154434180133115082b22
-=======
->>>>>>> c331934e4d375cbe491154434180133115082b22
+
 
 ## Live Demo
 
@@ -44,37 +20,10 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-=======
-=======
->>>>>>> c331934e4d375cbe491154434180133115082b22
   Clone the project
 - Using SSH git@github.com:Goldinium/Ney_York_Times_Clone.git
 - Using HTTPS https://github.com/Goldinium/Ney_York_Times_Clone.git
 - Open index.html using a browser or a local server
-<<<<<<< HEAD
->>>>>>> c331934e4d375cbe491154434180133115082b22
-=======
->>>>>>> c331934e4d375cbe491154434180133115082b22
 
 
 ## Authors

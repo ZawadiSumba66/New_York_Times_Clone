@@ -7,8 +7,7 @@ nav {
   top: 0;
   width: 97%;
   background-color: white;
-  padding: 10px 10px; 
-
+  padding: 10px; 
   margin-bottom: 2rem;
 }
 
@@ -190,15 +189,14 @@ font-weight: bold;
 
 .footer_details {
   width: 70%;
-  margin: 0 auto; 
-  
+  margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
-.footer_heading p{
+.footer_heading p {
   width: 70%;
-  margin: 0 auto;   
+  margin: auto;   
 }
 
 .footer_heading hr {
@@ -216,6 +214,12 @@ font-weight: bold;
   font-size: 10px;
 }
 
+.sixth_footer strong a {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+
 .footer_details a:hover {
   border-bottom: 0.3px solid black;
   cursor: pointer;
@@ -229,18 +233,11 @@ font-weight: bold;
   line-height: 5px;
 }
 
-.sixth_footer strong a {
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 20px;
-}
-
 .sticky_footer {
   position: fixed;
   width: 100%;
   bottom: 0;
   background-color: white;
   border-top: 1px solid black;
-
   text-align: center;
 }
