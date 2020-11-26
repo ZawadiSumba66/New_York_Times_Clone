@@ -7,7 +7,8 @@ nav {
   top: 0;
   width: 97%;
   background-color: white;
-  padding: 10px; 
+  padding: 10px;
+
   margin-bottom: 2rem;
 }
 
@@ -35,10 +36,7 @@ button {
   font-weight: bold;
   background-color: rgb(50, 104, 145);
   border-radius: 5px;
-}
-
-button a {
-color: #fff;
+  color: white;
 }
 
 figure {
@@ -175,7 +173,7 @@ article {
 }
 
 .container_cards p {
-font-weight: bold;
+  font-weight: bold;
 }
 
 .container_cards img {
@@ -188,7 +186,7 @@ font-weight: bold;
 }
 
 .footer {
-  font-size: 15px; 
+  font-size: 15px;
 }
 
 .footer_details {
@@ -200,7 +198,7 @@ font-weight: bold;
 
 .footer_heading p {
   width: 70%;
-  margin: auto;   
+  margin: auto;
 }
 
 .footer_heading hr {
@@ -218,10 +216,13 @@ font-weight: bold;
   font-size: 10px;
 }
 
-.sixth_footer strong a {
+.sixth_footer .strong  p{
   font-weight: bold;
-  font-size: 16px;
   line-height: 20px;
+}
+
+.strong p a {
+  font-size: 16px;
 }
 
 .footer_details a:hover {
