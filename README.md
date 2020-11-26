@@ -2,11 +2,7 @@
 
 # NewYork Times article clone
 
-![screenshot](https://raw.githubusercontent.com/Goldinium/Ney_York_Times_Clone/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./images/screenshot_2020-11-26 09-23-22.png)
 
 ## Built With
 
@@ -15,7 +11,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://goldinium.github.io/Ney_York_Times_Clone/)
 
 
 ## Getting Started

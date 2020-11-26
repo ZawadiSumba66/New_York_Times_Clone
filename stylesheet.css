@@ -34,8 +34,11 @@ button {
   cursor: pointer;
   font-weight: bold;
   background-color: rgb(50, 104, 145);
-  color: #fff;
   border-radius: 5px;
+}
+
+button a {
+color: #fff;
 }
 
 figure {
@@ -49,6 +52,7 @@ figure h3 {
   font-size: 2.5rem;
   font-style: italic;
   margin-top: 6rem;
+  text-align: center;
 }
 
 figure img {
