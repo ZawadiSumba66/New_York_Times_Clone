@@ -2,15 +2,12 @@
 
 # NewYork Times article clone
 
-![screenshot](https://goldinium.github.io/Ney_York_Times_Clone/images/Screenshot from 2020-11-25 20-27-08.png)
+![screenshot] (https://goldinium.github.io/Ney_York_Times_Clone/images/Screenshot from 2020-11-25 20-27-08.png)
 
 
 ## Built With
 
 - HTML/CSS
-  
-
-##Technologies and t
 
 ## Live Demo
 
@@ -28,11 +25,11 @@ Open index.html using a browser or a local server
 
 ## Authors
 
-👤 **Author1**
+👤 Goldinium
 
 - GitHub: [@Goldinium](https://github.com/Goldinium)
 
-👤 **Author2**
+👤 ZawadiSumba66
 
 - GitHub: [@ZawadiSumba66](https://github.com/ZawadiSumba66)
 
