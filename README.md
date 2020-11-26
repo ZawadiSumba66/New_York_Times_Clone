@@ -3,7 +3,11 @@
 # Project Name
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > One paragraph statement about the project.www
+=======
+![screenshot](https://raw.githubusercontent.com/Goldinium/Ney_York_Times_Clone/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
+>>>>>>> c331934e4d375cbe491154434180133115082b22
 =======
 ![screenshot](https://raw.githubusercontent.com/Goldinium/Ney_York_Times_Clone/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
 >>>>>>> c331934e4d375cbe491154434180133115082b22
@@ -20,6 +24,9 @@ Additional description about the project and its features.
 - Technologies used
 =======
 - HTML/CSS
+<<<<<<< HEAD
+>>>>>>> c331934e4d375cbe491154434180133115082b22
+=======
 >>>>>>> c331934e4d375cbe491154434180133115082b22
 
 ## Live Demo
@@ -29,6 +36,7 @@ Additional description about the project and its features.
 
 ## Getting Started
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
@@ -49,10 +57,15 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 =======
+=======
+>>>>>>> c331934e4d375cbe491154434180133115082b22
   Clone the project
 - Using SSH git@github.com:Goldinium/Ney_York_Times_Clone.git
 - Using HTTPS https://github.com/Goldinium/Ney_York_Times_Clone.git
 - Open index.html using a browser or a local server
+<<<<<<< HEAD
+>>>>>>> c331934e4d375cbe491154434180133115082b22
+=======
 >>>>>>> c331934e4d375cbe491154434180133115082b22
 
 
