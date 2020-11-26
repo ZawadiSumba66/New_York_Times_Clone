@@ -2,7 +2,7 @@
 
 # NewYork Times article clone
 
-![screenshot] (./images/Screenshot from 2020-11-25 20-27-08.png)
+![screenshot] (./images/screenshot_2020-11-26 09-23-22.png)
 
 
 ## Built With
