@@ -210,16 +210,15 @@ article {
 }
 
 .sixth_footer a {
-  text-decoration: none;  
+  text-decoration: none;
   color: black;
   font-size: 10px;
-}
-
+}                       
 .sixth_footer p {
   line-height: 5px;
 }
-                        
-.sixth_footer .strong  p {
+
+.sixth_footer .strong p {
   font-weight: bold;
   line-height: 20px;
 }
