@@ -8,7 +8,6 @@ nav {
   width: 97%;
   background-color: white;
   padding: 10px;
-
   margin-bottom: 2rem;
 }
 
@@ -216,7 +215,11 @@ article {
   font-size: 10px;
 }
 
-.sixth_footer .strong  p{
+.sixth_footer p {
+  line-height: 5px;
+}
+                        
+.sixth_footer .strong  p {
   font-weight: bold;
   line-height: 20px;
 }
@@ -232,10 +235,6 @@ article {
 
 .detail_header {
   font-weight: bold;
-}
-
-.sixth_footer p {
-  line-height: 5px;
 }
 
 .sticky_footer {
