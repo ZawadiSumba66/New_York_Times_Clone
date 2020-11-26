@@ -16,11 +16,10 @@
 
 ## Getting Started
 
-** Clone the project
+  Clone the project
 - Using SSH git@github.com:Goldinium/Ney_York_Times_Clone.git
 - Using HTTPS https://github.com/Goldinium/Ney_York_Times_Clone.git
 - Open index.html using a browser or a local server
-**
 
 
 ## Authors
