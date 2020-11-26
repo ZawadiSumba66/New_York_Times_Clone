@@ -9,7 +9,6 @@ nav {
   background-color: white;
   padding: 10px 10px; 
   margin-bottom: 2rem;
-
 }
 
 .nav-icons a {
@@ -23,9 +22,9 @@ nav {
   font-weight: bold;
 }
 
-nav img{
-  height:40px;
-  width:200px;
+nav img {
+  height: 40px;
+  width: 200px;
 }
 button {
   padding: 6px;
