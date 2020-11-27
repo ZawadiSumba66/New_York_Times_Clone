@@ -157,7 +157,6 @@ article {
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template: repeat(3, 1fr) / repeat(3, 1fr);
   gap: 20px 20px;
 }
 
