@@ -98,6 +98,48 @@ figure img {
   font-weight: bold;
 }
 
+form {
+ text-align: center;
+ background-color: #f2f3f3;
+ width: 50%;
+ margin: auto;
+ padding: 1rem 0;
+}
+
+form button {
+  padding: 1rem 0;
+}
+
+.enter{
+  width: 50%;
+  height: 40px;
+  border: 1px solid black;
+  padding: 0 1rem;
+  border-radius: 5px;
+}
+
+label {
+ font-weight: bold;
+ text-align: initial;
+}
+
+form button {
+  width: 50%;
+  border: none;
+}
+
+textarea {
+  border: none;
+  padding: 1rem 1rem;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+form p {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
 footer img {
   height: 40px;
   width: 200px;
