@@ -175,6 +175,11 @@ article {
   font-weight: bold;
 }
 
+.container_cards p a {
+  color: black;
+  text-decoration: none;
+}
+
 .container_cards img {
   height: 200px;
   width: 350px;
@@ -237,11 +242,16 @@ article {
   font-weight: bold;
 }
 
+.footer_bottom {
+  margin-bottom: 4rem;
+  margin-left: 4rem;
+}
+
 .sticky_footer {
   position: fixed;
   width: 100%;
   bottom: 0;
-  background-color: white;
   border-top: 1px solid black;
   text-align: center;
+  background-color: white;
 }
