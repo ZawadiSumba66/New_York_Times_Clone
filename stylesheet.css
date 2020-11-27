@@ -176,6 +176,17 @@ article {
   font-weight: bold;
 }
 
+.footer_details a {
+  text-decoration: none;
+  color: black;
+}
+
+.sixth_footer a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
+
 .container_cards p a {
   color: black;
   text-decoration: none;
@@ -212,17 +223,6 @@ article {
 
 .footer_heading hr {
   width: 70%;
-}
-
-.footer_details a {
-  text-decoration: none;
-  color: black;
-}
-
-.sixth_footer a {
-  text-decoration: none;
-  color: black;
-  font-size: 10px;
 }
 
 .sixth_footer p {
