@@ -189,6 +189,10 @@ article {
   font-size: 15px;
 }
 
+.footer_logo {
+  width: 70%;
+}
+
 .footer_details {
   width: 70%;
   margin: auto;
