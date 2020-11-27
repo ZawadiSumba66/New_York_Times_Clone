@@ -1,14 +1,31 @@
 nav {
-  position: sticky;
+  position: fixed;
   display: flex;
   justify-content: space-between;
-  height: 30px;
-  margin-top: 1rem;
+  height: 50px;
+  margin-top: 0;
+  top: 0;
+  width: 97%;
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 2rem;
+}
+
+.nav-icons a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: black;
 }
 
 .heading_font {
   font-size: 1.5rem;
   font-weight: bold;
+}
+
+nav img {
+  height: 40px;
+  width: 200px;
 }
 
 button {
@@ -17,10 +34,11 @@ button {
   cursor: pointer;
   font-weight: bold;
   background-color: rgb(50, 104, 145);
+  border-radius: 5px;
+  color: white;
 }
 
 figure {
-  align-items: center;
   margin-left: auto;
   margin-right: auto;
   width: 70%;
@@ -28,10 +46,13 @@ figure {
 
 figure h3 {
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 2.5rem;
+  font-style: italic;
+  margin-top: 6rem;
+  text-align: center;
 }
 
-img {
+figure img {
   margin: 0 auto;
   height: 500px;
   width: 1000px;
@@ -69,8 +90,18 @@ img {
   float: right;
 }
 
+.editors_picks hr {
+  width: 70%;
+}
+
 .editor_heading {
   font-weight: bold;
+}
+
+footer img {
+  height: 40px;
+  width: 200px;
+  margin-left: 200px;
 }
 
 .editors_picks img {
@@ -102,24 +133,38 @@ article {
   font-family: 'Nunito', sans-serif;
 }
 
-.cards {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
 .inflation_container {
-  width: 100%;
-  margin: 0 auto;
-  font-size: 15px;
-}
-
-.inflation_container img {
-  width: 700px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .inflation_header h5 {
-  font-weight: bold;
   font-size: 20px;
+}
+
+.inflation_cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.inflation_cards img {
+  width: 200px;
+  height: 200px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px 20px;
+}
+
+.image-text {
+  display: block;
+  width: 100%;
+  align-content: center;
+  height: 975px;
 }
 
 .container_cards {
@@ -127,24 +172,75 @@ article {
   margin: 0 auto;
 }
 
+.container_cards p {
+  font-weight: bold;
+}
+
+.footer_details a {
+  text-decoration: none;
+  color: black;
+}
+
+.sixth_footer a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
+
+.container_cards p a {
+  color: black;
+  text-decoration: none;
+}
+
 .container_cards img {
   height: 200px;
   width: 350px;
 }
 
-.footer {
-  font-size: 15px;
-  width: 60%;
-  margin: 0 auto;
+.most_popular {
+  float: right;
 }
 
-.footer hr {
-  width: 80%;
+.footer {
+  font-size: 15px;
+}
+
+.footer_logo {
+  width: 70%;
 }
 
 .footer_details {
+  width: 70%;
+  margin: auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.footer_heading p {
+  width: 70%;
+  margin: auto;
+}
+
+.footer_heading hr {
+  width: 70%;
+}
+
+.sixth_footer p {
+  line-height: 5px;
+}
+
+.sixth_footer .strong p {
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.strong p a {
+  font-size: 16px;
+}
+
+.footer_details a:hover {
+  border-bottom: 0.3px solid black;
+  cursor: pointer;
 }
 
 .detail_header {
@@ -152,7 +248,15 @@ article {
 }
 
 .footer_bottom {
-  font-size: 10px;
-  margin: 0 auto;
+  margin-bottom: 4rem;
+  margin-left: 4rem;
+}
+
+.sticky_footer {
+  position: fixed;
   width: 100%;
+  bottom: 0;
+  border-top: 1px solid black;
+  text-align: center;
+  background-color: white;
 }

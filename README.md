@@ -2,12 +2,12 @@
 
 # NewYork Times article clone
 
-![screenshot](https://github.com/Goldinium/Ney_York_Times_Clone/blob/new_york_first_trial/images/screenshot_2020-11-26%2009-23-22.png)
-
+![screenshot](https://raw.githubusercontent.com/Goldinium/Ney_York_Times_Clone/new_york_first_trial/images/screenshot_2020-11-26-09-23-22.png)
 
 ## Built With
 
 - HTML/CSS
+
 
 ## Live Demo
 
@@ -16,16 +16,19 @@
 
 ## Getting Started
 
-**Clone or visit the live demo link above**
+  Clone the project
+- Using SSH git@github.com:Goldinium/Ney_York_Times_Clone.git
+- Using HTTPS https://github.com/Goldinium/Ney_York_Times_Clone.git
+- Open index.html using a browser or a local server
 
 
 ## Authors
 
-👤 **Author1**
+👤 Goldinium
 
 - GitHub: [@Goldinium](https://github.com/Goldinium)
 
-👤 **Author2**
+👤 ZawadiSumba66
 
 - GitHub: [@ZawadiSumba66](https://github.com/ZawadiSumba66)
 
@@ -33,12 +36,18 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+If you encounter an issue or a bug feel free to check the [issues page](https://github.com/Goldinium/Ney_York_Times_Clone/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://github.com/Goldinium/Ney_York_Times_Clone/blob/new_york_first_trial/LICENSE) licensed.
