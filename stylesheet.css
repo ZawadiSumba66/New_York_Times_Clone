@@ -99,18 +99,20 @@ figure img {
 }
 
 form {
- text-align: center;
- background-color: #f2f3f3;
- width: 50%;
- margin: auto;
- padding: 1rem 0;
+  text-align: center;
+  background-color: #f2f3f3;
+  width: 50%;
+  margin: auto;
+  padding: 1rem 0;
 }
 
 form button {
   padding: 1rem 0;
+  width: 50%;
+  border: none;
 }
 
-.enter{
+.enter {
   width: 50%;
   height: 40px;
   border: 1px solid black;
@@ -119,17 +121,11 @@ form button {
 }
 
 label {
- font-weight: bold;
- text-align: initial;
-}
-
-form button {
-  width: 50%;
-  border: none;
+  font-weight: bold;
+  text-align: initial;
 }
 
 textarea {
-  border: none;
   padding: 1rem 1rem;
   border: 1px solid black;
   border-radius: 5px;
