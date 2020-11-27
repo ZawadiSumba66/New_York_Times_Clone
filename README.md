@@ -26,15 +26,11 @@
 
 👤 Goldinium
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@Goldinium](https://github.com/Goldinium)
 
 👤 ZawadiSumba66
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@ZawadiSumba66](https://github.com/ZawadiSumba66)
 
 ## 🤝 Contributing
 

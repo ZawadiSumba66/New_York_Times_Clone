@@ -157,6 +157,7 @@ article {
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px 20px;
 }
 
 .image-text {
@@ -191,6 +192,10 @@ article {
 
 .footer {
   font-size: 15px;
+}
+
+.footer_logo {
+  width: 70%;
 }
 
 .footer_details {
