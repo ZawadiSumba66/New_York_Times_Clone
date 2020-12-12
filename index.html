@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="stylesheet.css">
+  <link rel="stylesheet" href="styles/stylesheet.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
   <title>Space Ripples Reveal Big Bang’s Smoking Gun</title>
@@ -231,16 +231,16 @@
   <hr>
   <form action="/index.html">
     <p>Subscribe to our Newsletter</p>
-    <label for="username" id="username">Enter Username</label><br><br>
+    <label id="username">Enter Username</label><br><br>
     <input type="text" minlength="1"  maxlength="20" required class="enter"><br><br>
-     <label for="email" id="email">Enter your email</label><br><br>
-     <input type="text" minlength="1" maxlength="20" required class="enter"><br><br>
+     <label id="email">Enter your email</label><br><br>
+     <input type="email" minlength="1" maxlength="20" required class="enter"><br><br>
      <textarea name="comments" id="comments" cols="45" rows="10"  minlength="1" maxlength="250" placeholder="Type your comment here" required></textarea><br><br>
-     <label for="options">What is your overall opinion about this article?</label>
+     <label >What is your overall opinion about this article?</label>
      <input type="radio" name="feedback" value="positive">
      <input type="radio" name="feedback" value="negative">
      <input type="radio" name="feedback" value="neutral"><br><br>
-     <input type="checkbox"><label for="check">I want to subscribe to the newsletter</label><br><br>
+     <input type="checkbox"><label >I want to subscribe to the newsletter</label><br><br>
      <button type="submit">Submit</button>
     </form>
     <footer>

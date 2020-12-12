@@ -33,7 +33,7 @@ button {
   border: none;
   cursor: pointer;
   font-weight: bold;
-  background-color: rgb(50, 104, 145);
+  background-color: #326891;
   border-radius: 5px;
   color: white;
 }
@@ -43,7 +43,6 @@ figure {
   margin-right: auto;
   width: 70%;
 }
-
 figure h3 {
   font-weight: bold;
   font-size: 2.5rem;
@@ -168,7 +167,7 @@ footer img {
 
 article {
   font-size: 16px;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 .inflation_container {
@@ -298,3 +297,5 @@ article {
   text-align: center;
   background-color: white;
 }
+
+/*# sourceMappingURL=stylesheet.css.map */
